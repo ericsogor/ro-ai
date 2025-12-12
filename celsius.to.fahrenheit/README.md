@@ -1,0 +1,3 @@
+This project showcases foundational data transformation skills using Python and the Pandas library.
+
+It implements a core function to convert temperatures from Celsius to Fahrenheit, processing data efficiently from an external CSV file. The script focuses on precision, rounding all output values to two decimal places as required by the problem statement. This exercise demonstrates competence in basic Feature Engineering and the ability to handle small-scale data manipulation tasks essential for any Machine Learning pipeline. The code is structured for readability and adheres to evaluation criteria based on the exact correctness of predicted values.
